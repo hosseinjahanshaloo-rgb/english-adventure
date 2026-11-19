@@ -1,0 +1,269 @@
+{
+ "title": "Lesson 1: My Nationality",
+ "words": [
+  {
+   "en": "nationality",
+   "fa": "ملیت"
+  },
+  {
+   "en": "country",
+   "fa": "کشور"
+  },
+  {
+   "en": "continent",
+   "fa": "قاره"
+  },
+  {
+   "en": "Asia",
+   "fa": "آسیا"
+  },
+  {
+   "en": "Asian",
+   "fa": "آسیایی"
+  },
+  {
+   "en": "Europe",
+   "fa": "اروپا"
+  },
+  {
+   "en": "European",
+   "fa": "اروپایی"
+  },
+  {
+   "en": "Africa",
+   "fa": "آفریقا"
+  },
+  {
+   "en": "African",
+   "fa": "آفریقایی"
+  },
+  {
+   "en": "Australia",
+   "fa": "استرالیا"
+  },
+  {
+   "en": "Australian",
+   "fa": "استرالیایی"
+  },
+  {
+   "en": "Iran",
+   "fa": "ایران"
+  },
+  {
+   "en": "Iranian",
+   "fa": "ایرانی"
+  },
+  {
+   "en": "China",
+   "fa": "چین"
+  },
+  {
+   "en": "Chinese",
+   "fa": "چینی"
+  },
+  {
+   "en": "France",
+   "fa": "فرانسه"
+  },
+  {
+   "en": "French",
+   "fa": "فرانسوی"
+  },
+  {
+   "en": "Spain",
+   "fa": "اسپانیا"
+  },
+  {
+   "en": "Spanish",
+   "fa": "اسپانیایی"
+  },
+  {
+   "en": "England",
+   "fa": "انگلستان"
+  },
+  {
+   "en": "British",
+   "fa": "بریتانیایی"
+  },
+  {
+   "en": "Brazil",
+   "fa": "برزیل"
+  },
+  {
+   "en": "Brazilian",
+   "fa": "برزیلی"
+  },
+  {
+   "en": "introduce",
+   "fa": "معرفی کردن"
+  },
+  {
+   "en": "cousin",
+   "fa": "پسرعمو، دخترعمو"
+  },
+  {
+   "en": "guest",
+   "fa": "مهمان"
+  },
+  {
+   "en": "spell",
+   "fa": "هجی کردن"
+  },
+  {
+   "en": "correct",
+   "fa": "درست"
+  },
+  {
+   "en": "shoes",
+   "fa": "کفش"
+  },
+  {
+   "en": "chair",
+   "fa": "صندلی"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "تو اهل کجایی؟",
+   "en": "Where are you from"
+  },
+  {
+   "fa": "من اهل ایران هستم.",
+   "en": "I am from Iran"
+  },
+  {
+   "fa": "آیا تو ایرانی هستی؟",
+   "en": "Are you Iranian"
+  },
+  {
+   "fa": "آیا او اهل انگلستان است؟",
+   "en": "Is she from England"
+  },
+  {
+   "fa": "او اهل فرانسه است.",
+   "en": "He is from France"
+  },
+  {
+   "fa": "آن‌ها اهل اسپانیا هستند؟",
+   "en": "Are they from Spain"
+  },
+  {
+   "fa": "آن‌ها برزیلی هستند.",
+   "en": "They are Brazilian"
+  },
+  {
+   "fa": "این پسرعموی من، سام، است.",
+   "en": "This is my cousin Sam"
+  },
+  {
+   "fa": "از آشنایی با شما خوشحالم.",
+   "en": "Nice to meet you"
+  },
+  {
+   "fa": "ایران کشور زیبایی است.",
+   "en": "Iran is a beautiful country"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "___ you from Iran?",
+   "options": [
+    "Are",
+    "Is",
+    "Am",
+    "Do"
+   ],
+   "answer": "Are"
+  },
+  {
+   "q": "I ___ from France.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": "am"
+  },
+  {
+   "q": "Is she from England? Yes, she ___.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "does"
+   ],
+   "answer": "is"
+  },
+  {
+   "q": "Are they from Spain? No, they ___.",
+   "options": [
+    "aren't",
+    "isn't",
+    "am not",
+    "don't"
+   ],
+   "answer": "aren't"
+  },
+  {
+   "q": "Where is Mark from? He ___ from France.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer": "is"
+  },
+  {
+   "q": "A person from China is ___.",
+   "options": [
+    "Chinese",
+    "China",
+    "Chinas",
+    "Chin"
+   ],
+   "answer": "Chinese"
+  },
+  {
+   "q": "A person from Spain is ___.",
+   "options": [
+    "Spanish",
+    "Spain",
+    "Spaniard",
+    "Spanian"
+   ],
+   "answer": "Spanish"
+  },
+  {
+   "q": "Which spelling is correct for the things we wear on our feet?",
+   "options": [
+    "shoes",
+    "shooes",
+    "shos",
+    "shues"
+   ],
+   "answer": "shoes"
+  },
+  {
+   "q": "Asia is a ___.",
+   "options": [
+    "continent",
+    "country",
+    "nationality",
+    "guest"
+   ],
+   "answer": "continent"
+  },
+  {
+   "q": "Where ___ they from?",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "do"
+   ],
+   "answer": "are"
+  }
+ ]
+}

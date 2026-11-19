@@ -1,0 +1,257 @@
+{
+ "title": "Lesson 3: My Abilities",
+ "words": [
+  {
+   "en": "draw",
+   "fa": "نقاشی کشیدن"
+  },
+  {
+   "en": "cook",
+   "fa": "آشپزی کردن"
+  },
+  {
+   "en": "take photos",
+   "fa": "عکس گرفتن"
+  },
+  {
+   "en": "search the Web",
+   "fa": "در وب جست‌وجو کردن"
+  },
+  {
+   "en": "swim",
+   "fa": "شنا کردن"
+  },
+  {
+   "en": "ride a bicycle",
+   "fa": "دوچرخه‌سواری کردن"
+  },
+  {
+   "en": "ride a horse",
+   "fa": "اسب‌سواری کردن"
+  },
+  {
+   "en": "do a puzzle",
+   "fa": "پازل حل کردن"
+  },
+  {
+   "en": "play football",
+   "fa": "فوتبال بازی کردن"
+  },
+  {
+   "en": "play basketball",
+   "fa": "بسکتبال بازی کردن"
+  },
+  {
+   "en": "play tennis",
+   "fa": "تنیس بازی کردن"
+  },
+  {
+   "en": "play chess",
+   "fa": "شطرنج بازی کردن"
+  },
+  {
+   "en": "play volleyball",
+   "fa": "والیبال بازی کردن"
+  },
+  {
+   "en": "play badminton",
+   "fa": "بدمینتون بازی کردن"
+  },
+  {
+   "en": "play ping-pong",
+   "fa": "پینگ‌پنگ بازی کردن"
+  },
+  {
+   "en": "recite the Holy Quran",
+   "fa": "قرآن خواندن"
+  },
+  {
+   "en": "type",
+   "fa": "تایپ کردن"
+  },
+  {
+   "en": "read",
+   "fa": "خواندن"
+  },
+  {
+   "en": "speak",
+   "fa": "صحبت کردن"
+  },
+  {
+   "en": "act in movies",
+   "fa": "در فیلم بازی کردن"
+  },
+  {
+   "en": "make tea",
+   "fa": "چای درست کردن"
+  },
+  {
+   "en": "make a cake",
+   "fa": "کیک درست کردن"
+  },
+  {
+   "en": "tell a story",
+   "fa": "قصه گفتن"
+  },
+  {
+   "en": "run",
+   "fa": "دویدن"
+  },
+  {
+   "en": "work with a computer",
+   "fa": "با رایانه کار کردن"
+  },
+  {
+   "en": "be good at",
+   "fa": "در چیزی خوب بودن"
+  },
+  {
+   "en": "well",
+   "fa": "به‌خوبی"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "آیا در نقاشی خوب هستی؟",
+   "en": "Are you good at drawing"
+  },
+  {
+   "fa": "من در نقاشی خوب نیستم.",
+   "en": "I am not good at drawing"
+  },
+  {
+   "fa": "من می‌توانم عکس‌های خوبی بگیرم.",
+   "en": "I can take good photos"
+  },
+  {
+   "fa": "آیا می‌توانی دوچرخه‌سواری کنی؟",
+   "en": "Can you ride a bicycle"
+  },
+  {
+   "fa": "او می‌تواند کیک درست کند.",
+   "en": "She can make a cake"
+  },
+  {
+   "fa": "او می‌تواند پازل حل کند.",
+   "en": "He can do a puzzle"
+  },
+  {
+   "fa": "آیا آن‌ها می‌توانند بسکتبال بازی کنند؟",
+   "en": "Can they play basketball"
+  },
+  {
+   "fa": "چه کسی می‌تواند تنیس بازی کند؟",
+   "en": "Who can play tennis"
+  },
+  {
+   "fa": "علی خوب تنیس بازی می‌کند.",
+   "en": "Ali can play tennis well"
+  },
+  {
+   "fa": "همه‌ی دانش‌آموزان می‌توانند با رایانه کار کنند.",
+   "en": "All students can work with a computer"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "Are you good ___ drawing?",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "to"
+   ],
+   "answer": "at"
+  },
+  {
+   "q": "Can you ___ a bicycle?",
+   "options": [
+    "ride",
+    "rides",
+    "riding",
+    "to ride"
+   ],
+   "answer": "ride"
+  },
+  {
+   "q": "She can ___ a cake.",
+   "options": [
+    "make",
+    "makes",
+    "making",
+    "made"
+   ],
+   "answer": "make"
+  },
+  {
+   "q": "Is he good at ___ football?",
+   "options": [
+    "playing",
+    "play",
+    "plays",
+    "played"
+   ],
+   "answer": "playing"
+  },
+  {
+   "q": "Can she search the Web? Yes, she ___.",
+   "options": [
+    "can",
+    "is",
+    "does",
+    "has"
+   ],
+   "answer": "can"
+  },
+  {
+   "q": "Can they play basketball? No, they ___.",
+   "options": [
+    "can't",
+    "aren't",
+    "don't",
+    "isn't"
+   ],
+   "answer": "can't"
+  },
+  {
+   "q": "___ can play tennis? Ali can.",
+   "options": [
+    "Who",
+    "What",
+    "Where",
+    "When"
+   ],
+   "answer": "Who"
+  },
+  {
+   "q": "Ali can play tennis ___.",
+   "options": [
+    "well",
+    "good",
+    "goodly",
+    "best"
+   ],
+   "answer": "well"
+  },
+  {
+   "q": "Are you good at swimming? Yes, I ___.",
+   "options": [
+    "am",
+    "can",
+    "do",
+    "is"
+   ],
+   "answer": "am"
+  },
+  {
+   "q": "I can take good ___.",
+   "options": [
+    "photos",
+    "photo",
+    "photoes",
+    "photoing"
+   ],
+   "answer": "photos"
+  }
+ ]
+}

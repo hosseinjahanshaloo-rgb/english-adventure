@@ -1,0 +1,249 @@
+{
+ "title": "Lesson 7: My Hobbies",
+ "words": [
+  {
+   "en": "hobby",
+   "fa": "سرگرمی"
+  },
+  {
+   "en": "free time",
+   "fa": "وقت آزاد"
+  },
+  {
+   "en": "reading",
+   "fa": "مطالعه کردن"
+  },
+  {
+   "en": "magazine",
+   "fa": "مجله"
+  },
+  {
+   "en": "poem",
+   "fa": "شعر"
+  },
+  {
+   "en": "news",
+   "fa": "خبر"
+  },
+  {
+   "en": "sports news",
+   "fa": "اخبار ورزشی"
+  },
+  {
+   "en": "walking in the park",
+   "fa": "پیاده‌روی در پارک"
+  },
+  {
+   "en": "watching movies",
+   "fa": "تماشای فیلم"
+  },
+  {
+   "en": "going to the movies",
+   "fa": "رفتن به سینما"
+  },
+  {
+   "en": "fishing",
+   "fa": "ماهیگیری"
+  },
+  {
+   "en": "skiing",
+   "fa": "اسکی"
+  },
+  {
+   "en": "playing computer games",
+   "fa": "بازی‌های رایانه‌ای"
+  },
+  {
+   "en": "listening to the radio",
+   "fa": "گوش دادن به رادیو"
+  },
+  {
+   "en": "working in the garden",
+   "fa": "کار در باغ"
+  },
+  {
+   "en": "browsing the Internet",
+   "fa": "گشت‌وگذار در اینترنت"
+  },
+  {
+   "en": "shopping",
+   "fa": "خرید کردن"
+  },
+  {
+   "en": "horse riding",
+   "fa": "اسب‌سواری"
+  },
+  {
+   "en": "playing tennis",
+   "fa": "بازی تنیس"
+  },
+  {
+   "en": "usually",
+   "fa": "معمولاً"
+  },
+  {
+   "en": "sometimes",
+   "fa": "گاهی"
+  },
+  {
+   "en": "enjoy",
+   "fa": "لذت بردن"
+  },
+  {
+   "en": "love",
+   "fa": "عاشق بودن"
+  },
+  {
+   "en": "interesting",
+   "fa": "جالب"
+  },
+  {
+   "en": "story",
+   "fa": "داستان"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "آیا سرگرمی‌ای داری؟",
+   "en": "Do you have any hobbies"
+  },
+  {
+   "fa": "من فیلم دیدن را به عنوان سرگرمی دارم.",
+   "en": "I watch movies as a hobby"
+  },
+  {
+   "fa": "من خواندن را دوست دارم.",
+   "en": "I love reading"
+  },
+  {
+   "fa": "سرگرمی تو چیست؟",
+   "en": "What is your hobby"
+  },
+  {
+   "fa": "من از جست‌وجو در وب لذت می‌برم.",
+   "en": "I enjoy searching the Web"
+  },
+  {
+   "fa": "در وقت آزادت چه کار می‌کنی؟",
+   "en": "What do you do in your free time"
+  },
+  {
+   "fa": "من معمولاً خرید می‌روم.",
+   "en": "I usually go shopping"
+  },
+  {
+   "fa": "من در پارک قدم می‌زنم.",
+   "en": "I walk in the park"
+  },
+  {
+   "fa": "من بازی‌های رایانه‌ای را دوست دارم.",
+   "en": "I like playing computer games"
+  },
+  {
+   "fa": "من اسب‌سواری می‌روم.",
+   "en": "I go horse riding"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "Do you ___ any hobbies?",
+   "options": [
+    "have",
+    "has",
+    "having",
+    "are"
+   ],
+   "answer": "have"
+  },
+  {
+   "q": "What ___ you do in your free time?",
+   "options": [
+    "do",
+    "does",
+    "are",
+    "is"
+   ],
+   "answer": "do"
+  },
+  {
+   "q": "I like ___ computer games.",
+   "options": [
+    "playing",
+    "play",
+    "plays",
+    "played"
+   ],
+   "answer": "playing"
+  },
+  {
+   "q": "What's your ___? Playing tennis.",
+   "options": [
+    "hobby",
+    "hobbies",
+    "hobbying",
+    "hobbed"
+   ],
+   "answer": "hobby"
+  },
+  {
+   "q": "Do you like reading? Yes, very ___.",
+   "options": [
+    "much",
+    "many",
+    "more",
+    "most"
+   ],
+   "answer": "much"
+  },
+  {
+   "q": "I ___ go shopping in my free time.",
+   "options": [
+    "usually",
+    "usual",
+    "use",
+    "using"
+   ],
+   "answer": "usually"
+  },
+  {
+   "q": "How do you say I-N-G in 'reading'? There is no ___ at the end.",
+   "options": [
+    "g",
+    "b",
+    "t",
+    "r"
+   ],
+   "answer": "g"
+  },
+  {
+   "q": "I enjoy ___ the Web.",
+   "options": [
+    "searching",
+    "search",
+    "searches",
+    "searched"
+   ],
+   "answer": "searching"
+  },
+  {
+   "q": "I watch movies ___ a hobby.",
+   "options": [
+    "as",
+    "in",
+    "on",
+    "to"
+   ],
+   "answer": "as"
+  },
+  {
+   "q": "We write B-R-O-W-S-I-N-G and say '___'.",
+   "options": [
+    "browsing",
+    "browsking",
+    "browzing",
+    "brows"
+   ],
+   "answer": "browsing"
+  }
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "title": "Lesson 5: My City",
+ "words": [
+  {
+   "en": "north",
+   "fa": "شمال"
+  },
+  {
+   "en": "south",
+   "fa": "جنوب"
+  },
+  {
+   "en": "east",
+   "fa": "شرق"
+  },
+  {
+   "en": "west",
+   "fa": "غرب"
+  },
+  {
+   "en": "north-east",
+   "fa": "شمال شرق"
+  },
+  {
+   "en": "north-west",
+   "fa": "شمال غرب"
+  },
+  {
+   "en": "south-east",
+   "fa": "جنوب شرق"
+  },
+  {
+   "en": "south-west",
+   "fa": "جنوب غرب"
+  },
+  {
+   "en": "center",
+   "fa": "مرکز"
+  },
+  {
+   "en": "capital",
+   "fa": "پایتخت"
+  },
+  {
+   "en": "downtown",
+   "fa": "مرکز شهر"
+  },
+  {
+   "en": "mosque",
+   "fa": "مسجد"
+  },
+  {
+   "en": "minaret",
+   "fa": "مناره"
+  },
+  {
+   "en": "palace",
+   "fa": "کاخ"
+  },
+  {
+   "en": "store",
+   "fa": "فروشگاه"
+  },
+  {
+   "en": "church",
+   "fa": "کلیسا"
+  },
+  {
+   "en": "restaurant",
+   "fa": "رستوران"
+  },
+  {
+   "en": "tourist",
+   "fa": "گردشگر"
+  },
+  {
+   "en": "stadium",
+   "fa": "ورزشگاه"
+  },
+  {
+   "en": "building",
+   "fa": "ساختمان"
+  },
+  {
+   "en": "shrine",
+   "fa": "زیارتگاه"
+  },
+  {
+   "en": "bridge",
+   "fa": "پل"
+  },
+  {
+   "en": "metro",
+   "fa": "مترو"
+  },
+  {
+   "en": "zoo",
+   "fa": "باغ‌وحش"
+  },
+  {
+   "en": "airport",
+   "fa": "فرودگاه"
+  },
+  {
+   "en": "museum",
+   "fa": "موزه"
+  },
+  {
+   "en": "train station",
+   "fa": "ایستگاه قطار"
+  },
+  {
+   "en": "bus station",
+   "fa": "ایستگاه اتوبوس"
+  },
+  {
+   "en": "park",
+   "fa": "پارک"
+  },
+  {
+   "en": "boulevard",
+   "fa": "بلوار"
+  },
+  {
+   "en": "cinema",
+   "fa": "سینما"
+  },
+  {
+   "en": "famous",
+   "fa": "مشهور"
+  },
+  {
+   "en": "near",
+   "fa": "نزدیک"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "اصفهان کجاست؟",
+   "en": "Where is Isfahan"
+  },
+  {
+   "fa": "در مرکز ایران است.",
+   "en": "It is in the center of Iran"
+  },
+  {
+   "fa": "ماکو در شمال غرب است.",
+   "en": "Maku is in the north-west"
+  },
+  {
+   "fa": "کرج نزدیک پایتخت است.",
+   "en": "Karaj is near the capital"
+  },
+  {
+   "fa": "اصفهان چه جور شهری است؟",
+   "en": "What is Isfahan like"
+  },
+  {
+   "fa": "شهری بزرگ و تمیز است.",
+   "en": "It is a big and clean city"
+  },
+  {
+   "fa": "اصفهان به مسجدها و کاخ‌هایش مشهور است.",
+   "en": "Isfahan is famous for its mosques and palaces"
+  },
+  {
+   "fa": "آیا موزه‌ای در شهر وجود دارد؟",
+   "en": "Are there any museums"
+  },
+  {
+   "fa": "آیا سیستم مترو وجود دارد؟",
+   "en": "Is there a metro system"
+  },
+  {
+   "fa": "بله، چند تا عالی‌اش هست.",
+   "en": "Yes there are some great ones"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "Where ___ Isfahan?",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ],
+   "answer": "is"
+  },
+  {
+   "q": "Isfahan is in the ___ of Iran.",
+   "options": [
+    "center",
+    "centers",
+    "centered",
+    "central"
+   ],
+   "answer": "center"
+  },
+  {
+   "q": "Is there a metro system? Yes, there ___.",
+   "options": [
+    "is",
+    "are",
+    "isn't",
+    "am"
+   ],
+   "answer": "is"
+  },
+  {
+   "q": "Are there any museums? Yes, there ___.",
+   "options": [
+    "are",
+    "is",
+    "aren't",
+    "do"
+   ],
+   "answer": "are"
+  },
+  {
+   "q": "___ is Isfahan like? It's a big city.",
+   "options": [
+    "What",
+    "Where",
+    "Who",
+    "When"
+   ],
+   "answer": "What"
+  },
+  {
+   "q": "Isfahan is famous ___ its mosques.",
+   "options": [
+    "for",
+    "at",
+    "in",
+    "with"
+   ],
+   "answer": "for"
+  },
+  {
+   "q": "The opposite of north is ___.",
+   "options": [
+    "south",
+    "east",
+    "west",
+    "center"
+   ],
+   "answer": "south"
+  },
+  {
+   "q": "South-west is between south and ___.",
+   "options": [
+    "west",
+    "east",
+    "north",
+    "center"
+   ],
+   "answer": "west"
+  },
+  {
+   "q": "Karaj is ___ the capital.",
+   "options": [
+    "near",
+    "far",
+    "next",
+    "between"
+   ],
+   "answer": "near"
+  },
+  {
+   "q": "A place for animals in a city is a ___.",
+   "options": [
+    "zoo",
+    "mosque",
+    "bridge",
+    "metro"
+   ],
+   "answer": "zoo"
+  }
+ ]
+}

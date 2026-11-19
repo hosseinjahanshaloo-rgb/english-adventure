@@ -1,0 +1,293 @@
+{
+ "title": "Lesson 6: My Village",
+ "words": [
+  {
+   "en": "village",
+   "fa": "روستا"
+  },
+  {
+   "en": "tree",
+   "fa": "درخت"
+  },
+  {
+   "en": "flower",
+   "fa": "گل"
+  },
+  {
+   "en": "field",
+   "fa": "کشتزار"
+  },
+  {
+   "en": "farm",
+   "fa": "مزرعه"
+  },
+  {
+   "en": "mountain",
+   "fa": "کوه"
+  },
+  {
+   "en": "hill",
+   "fa": "تپه"
+  },
+  {
+   "en": "river",
+   "fa": "رودخانه"
+  },
+  {
+   "en": "plow",
+   "fa": "گاوآهن"
+  },
+  {
+   "en": "tractor",
+   "fa": "تراکتور"
+  },
+  {
+   "en": "sunflower",
+   "fa": "آفتابگردان"
+  },
+  {
+   "en": "animals",
+   "fa": "حیوانات"
+  },
+  {
+   "en": "cattle",
+   "fa": "دام"
+  },
+  {
+   "en": "cow",
+   "fa": "گاو"
+  },
+  {
+   "en": "dog",
+   "fa": "سگ"
+  },
+  {
+   "en": "horse",
+   "fa": "اسب"
+  },
+  {
+   "en": "hen",
+   "fa": "مرغ"
+  },
+  {
+   "en": "chicken",
+   "fa": "جوجه"
+  },
+  {
+   "en": "weather",
+   "fa": "آب‌وهوا"
+  },
+  {
+   "en": "wind",
+   "fa": "باد"
+  },
+  {
+   "en": "summer",
+   "fa": "تابستان"
+  },
+  {
+   "en": "fall",
+   "fa": "پاییز"
+  },
+  {
+   "en": "winter",
+   "fa": "زمستان"
+  },
+  {
+   "en": "spring",
+   "fa": "بهار"
+  },
+  {
+   "en": "hot",
+   "fa": "داغ"
+  },
+  {
+   "en": "warm",
+   "fa": "گرم"
+  },
+  {
+   "en": "cold",
+   "fa": "سرد"
+  },
+  {
+   "en": "dry",
+   "fa": "خشک"
+  },
+  {
+   "en": "wet",
+   "fa": "مرطوب"
+  },
+  {
+   "en": "windy",
+   "fa": "بادی"
+  },
+  {
+   "en": "sunny",
+   "fa": "آفتابی"
+  },
+  {
+   "en": "rainy",
+   "fa": "بارانی"
+  },
+  {
+   "en": "snowy",
+   "fa": "برفی"
+  },
+  {
+   "en": "icy",
+   "fa": "یخی"
+  },
+  {
+   "en": "thermometer",
+   "fa": "دماسنج"
+  },
+  {
+   "en": "raise animals",
+   "fa": "دام پرورش دادن"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "روستایی کوهستانی است.",
+   "en": "It is a mountain village"
+  },
+  {
+   "fa": "درخت‌ها و گل‌های زیادی دارد.",
+   "en": "It has many trees and flowers"
+  },
+  {
+   "fa": "به کشتزارهای آفتابگردانش مشهور است.",
+   "en": "It is famous for its sunflower fields"
+  },
+  {
+   "fa": "آن‌ها در مزرعه کار می‌کنند و دام پرورش می‌دهند.",
+   "en": "They work on farms and raise animals"
+  },
+  {
+   "fa": "تابستان هوا چطور است؟",
+   "en": "What is the weather like in summer"
+  },
+  {
+   "fa": "تابستان‌ها بادی است.",
+   "en": "It is windy in summer"
+  },
+  {
+   "fa": "آیا زمستان سرد است؟",
+   "en": "Is it cold in winter"
+  },
+  {
+   "fa": "پاییز باد زیادی می‌وزد.",
+   "en": "There is a lot of wind in fall"
+  },
+  {
+   "fa": "آیا در روستا رودخانه‌ای هست؟",
+   "en": "Is there a river in the village"
+  },
+  {
+   "fa": "آیا در روستا مردم زیادی هستند؟",
+   "en": "Are there many people in the village"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "What's the weather ___ in summer?",
+   "options": [
+    "like",
+    "likes",
+    "liking",
+    "look"
+   ],
+   "answer": "like"
+  },
+  {
+   "q": "It's 40 degrees. It's ___.",
+   "options": [
+    "hot",
+    "icy",
+    "snowy",
+    "cold"
+   ],
+   "answer": "hot"
+  },
+  {
+   "q": "Is there ___ river? Yes, there is.",
+   "options": [
+    "a",
+    "an",
+    "any",
+    "many"
+   ],
+   "answer": "a"
+  },
+  {
+   "q": "Are there ___ fields? Yes, there are.",
+   "options": [
+    "any",
+    "a",
+    "an",
+    "much"
+   ],
+   "answer": "any"
+  },
+  {
+   "q": "Is it cold in winter? Yes, it ___.",
+   "options": [
+    "is",
+    "are",
+    "does",
+    "has"
+   ],
+   "answer": "is"
+  },
+  {
+   "q": "It's famous ___ its sunflower fields.",
+   "options": [
+    "for",
+    "in",
+    "at",
+    "by"
+   ],
+   "answer": "for"
+  },
+  {
+   "q": "They work ___ farms.",
+   "options": [
+    "on",
+    "in",
+    "to",
+    "of"
+   ],
+   "answer": "on"
+  },
+  {
+   "q": "Summer, fall, winter and spring are the four ___.",
+   "options": [
+    "seasons",
+    "weathers",
+    "hills",
+    "fields"
+   ],
+   "answer": "seasons"
+  },
+  {
+   "q": "We use a ___ to measure the temperature.",
+   "options": [
+    "thermometer",
+    "tractor",
+    "plow",
+    "river"
+   ],
+   "answer": "thermometer"
+  },
+  {
+   "q": "It's snowy in ___.",
+   "options": [
+    "winter",
+    "summer",
+    "hot",
+    "wind"
+   ],
+   "answer": "winter"
+  }
+ ]
+}

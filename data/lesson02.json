@@ -1,0 +1,257 @@
+{
+ "title": "Lesson 2: My Week",
+ "words": [
+  {
+   "en": "Saturday",
+   "fa": "شنبه"
+  },
+  {
+   "en": "Sunday",
+   "fa": "یکشنبه"
+  },
+  {
+   "en": "Monday",
+   "fa": "دوشنبه"
+  },
+  {
+   "en": "Tuesday",
+   "fa": "سه‌شنبه"
+  },
+  {
+   "en": "Wednesday",
+   "fa": "چهارشنبه"
+  },
+  {
+   "en": "Thursday",
+   "fa": "پنج‌شنبه"
+  },
+  {
+   "en": "Friday",
+   "fa": "جمعه"
+  },
+  {
+   "en": "weekdays",
+   "fa": "روزهای کاری هفته"
+  },
+  {
+   "en": "weekend",
+   "fa": "آخر هفته"
+  },
+  {
+   "en": "day",
+   "fa": "روز"
+  },
+  {
+   "en": "week",
+   "fa": "هفته"
+  },
+  {
+   "en": "morning",
+   "fa": "صبح"
+  },
+  {
+   "en": "afternoon",
+   "fa": "بعدازظهر"
+  },
+  {
+   "en": "evening",
+   "fa": "عصر، شب"
+  },
+  {
+   "en": "every",
+   "fa": "هر"
+  },
+  {
+   "en": "go to school",
+   "fa": "به مدرسه رفتن"
+  },
+  {
+   "en": "go to the gym",
+   "fa": "به باشگاه رفتن"
+  },
+  {
+   "en": "go to the library",
+   "fa": "به کتابخانه رفتن"
+  },
+  {
+   "en": "go shopping",
+   "fa": "خرید رفتن"
+  },
+  {
+   "en": "visit relatives",
+   "fa": "به دیدن اقوام رفتن"
+  },
+  {
+   "en": "watch TV",
+   "fa": "تلویزیون تماشا کردن"
+  },
+  {
+   "en": "study lessons",
+   "fa": "درس خواندن"
+  },
+  {
+   "en": "play sports",
+   "fa": "ورزش کردن"
+  },
+  {
+   "en": "climb a mountain",
+   "fa": "کوه‌نوردی کردن"
+  },
+  {
+   "en": "relax",
+   "fa": "استراحت کردن"
+  },
+  {
+   "en": "stay at home",
+   "fa": "در خانه ماندن"
+  },
+  {
+   "en": "help",
+   "fa": "کمک کردن"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "صبح‌ها چه کار می‌کنی؟",
+   "en": "What do you do in the mornings"
+  },
+  {
+   "fa": "من به مدرسه می‌روم.",
+   "en": "I go to school"
+  },
+  {
+   "fa": "ما بعدازظهرها ورزش می‌کنیم.",
+   "en": "We play sports in the afternoons"
+  },
+  {
+   "fa": "من عصرها درس‌هایم را می‌خوانم.",
+   "en": "I study my lessons in the evenings"
+  },
+  {
+   "fa": "ما جمعه‌صبح‌ها تلویزیون تماشا می‌کنیم.",
+   "en": "We watch TV on Friday mornings"
+  },
+  {
+   "fa": "من پنج‌شنبه‌عصرها به دیدن اقوامم می‌روم.",
+   "en": "I visit my relatives on Thursday evenings"
+  },
+  {
+   "fa": "چه روزهایی خرید می‌روی؟",
+   "en": "What days do you go shopping"
+  },
+  {
+   "fa": "هر چهارشنبه بعدازظهر.",
+   "en": "Every Wednesday afternoon"
+  },
+  {
+   "fa": "من یکشنبه‌ها و سه‌شنبه‌ها به باشگاه می‌روم.",
+   "en": "I go to the gym on Sundays and Tuesdays"
+  },
+  {
+   "fa": "من در خانه می‌مانم و استراحت می‌کنم.",
+   "en": "I stay at home and relax"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "What do you do ___ the mornings?",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer": "in"
+  },
+  {
+   "q": "I go to the gym ___ Sundays.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "to"
+   ],
+   "answer": "on"
+  },
+  {
+   "q": "We watch TV ___ Friday mornings.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "of"
+   ],
+   "answer": "on"
+  },
+  {
+   "q": "___ do you study English? On Monday mornings.",
+   "options": [
+    "When",
+    "Who",
+    "Where",
+    "Why"
+   ],
+   "answer": "When"
+  },
+  {
+   "q": "___ days do you go shopping?",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "How"
+   ],
+   "answer": "What"
+  },
+  {
+   "q": "Saturday, Sunday, Monday, Tuesday and Wednesday are ___.",
+   "options": [
+    "weekdays",
+    "the weekend",
+    "mornings",
+    "evenings"
+   ],
+   "answer": "weekdays"
+  },
+  {
+   "q": "Thursday and Friday are the ___.",
+   "options": [
+    "weekend",
+    "weekdays",
+    "morning",
+    "afternoon"
+   ],
+   "answer": "weekend"
+  },
+  {
+   "q": "I study my lessons ___ the evenings.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": "in"
+  },
+  {
+   "q": "I play sports ___ Saturdays and Tuesdays.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "answer": "on"
+  },
+  {
+   "q": "Do you stay at home on Friday mornings? Yes, I ___.",
+   "options": [
+    "do",
+    "am",
+    "can",
+    "does"
+   ],
+   "answer": "do"
+  }
+ ]
+}

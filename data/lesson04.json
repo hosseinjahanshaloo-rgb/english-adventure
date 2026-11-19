@@ -1,0 +1,257 @@
+{
+ "title": "Lesson 4: My Health",
+ "words": [
+  {
+   "en": "patient",
+   "fa": "بیمار"
+  },
+  {
+   "en": "headache",
+   "fa": "سردرد"
+  },
+  {
+   "en": "backache",
+   "fa": "کمردرد"
+  },
+  {
+   "en": "toothache",
+   "fa": "دندان‌درد"
+  },
+  {
+   "en": "stomachache",
+   "fa": "دل‌درد"
+  },
+  {
+   "en": "sore eyes",
+   "fa": "چشم‌درد"
+  },
+  {
+   "en": "sore throat",
+   "fa": "گلودرد"
+  },
+  {
+   "en": "running nose",
+   "fa": "آب‌ریزش بینی"
+  },
+  {
+   "en": "earache",
+   "fa": "گوش‌درد"
+  },
+  {
+   "en": "cough",
+   "fa": "سرفه کردن"
+  },
+  {
+   "en": "sneeze",
+   "fa": "عطسه کردن"
+  },
+  {
+   "en": "have a fever",
+   "fa": "تب داشتن"
+  },
+  {
+   "en": "flu",
+   "fa": "آنفلوآنزا"
+  },
+  {
+   "en": "cold",
+   "fa": "سرماخوردگی"
+  },
+  {
+   "en": "mumps",
+   "fa": "اوریون"
+  },
+  {
+   "en": "measles",
+   "fa": "سرخک"
+  },
+  {
+   "en": "hospital",
+   "fa": "بیمارستان"
+  },
+  {
+   "en": "doctor",
+   "fa": "پزشک"
+  },
+  {
+   "en": "nurse",
+   "fa": "پرستار"
+  },
+  {
+   "en": "drugstore",
+   "fa": "داروخانه"
+  },
+  {
+   "en": "dentist",
+   "fa": "دندان‌پزشک"
+  },
+  {
+   "en": "rest",
+   "fa": "استراحت کردن"
+  },
+  {
+   "en": "advice",
+   "fa": "توصیه"
+  },
+  {
+   "en": "ache",
+   "fa": "درد"
+  },
+  {
+   "en": "problem",
+   "fa": "مشکل"
+  },
+  {
+   "en": "office",
+   "fa": "دفتر"
+  },
+  {
+   "en": "parents",
+   "fa": "والدین"
+  }
+ ],
+ "sentences": [
+  {
+   "fa": "حالت خوب است؟",
+   "en": "Are you OK"
+  },
+  {
+   "fa": "من سردرد دارم.",
+   "en": "I have a headache"
+  },
+  {
+   "fa": "او گلودرد دارد.",
+   "en": "She has a sore throat"
+  },
+  {
+   "fa": "او کمردرد دارد.",
+   "en": "He has a backache"
+  },
+  {
+   "fa": "چه مشکلی داری؟",
+   "en": "What is wrong"
+  },
+  {
+   "fa": "من دندان‌درد دارم.",
+   "en": "I have a toothache"
+  },
+  {
+   "fa": "باید به خانه بروی و استراحت کنی.",
+   "en": "You should go home and rest"
+  },
+  {
+   "fa": "چرا کمی استراحت نمی‌کنی؟",
+   "en": "Why don't you get some rest"
+  },
+  {
+   "fa": "باید به دکتر مراجعه کنی.",
+   "en": "You should see a doctor"
+  },
+  {
+   "fa": "پیش دندان‌پزشک برو.",
+   "en": "Go to the dentist"
+  }
+ ],
+ "grammar": [
+  {
+   "q": "Are you OK? No, I ___ a headache.",
+   "options": [
+    "have",
+    "has",
+    "am",
+    "is"
+   ],
+   "answer": "have"
+  },
+  {
+   "q": "She ___ a sore throat.",
+   "options": [
+    "has",
+    "have",
+    "is",
+    "are"
+   ],
+   "answer": "has"
+  },
+  {
+   "q": "What's ___? I have a toothache.",
+   "options": [
+    "wrong",
+    "wrongs",
+    "wronging",
+    "wrongly"
+   ],
+   "answer": "wrong"
+  },
+  {
+   "q": "I have a headache. Why don't you ___ some rest?",
+   "options": [
+    "get",
+    "gets",
+    "getting",
+    "to get"
+   ],
+   "answer": "get"
+  },
+  {
+   "q": "I have a sore throat. You should ___ a doctor.",
+   "options": [
+    "see",
+    "sees",
+    "seeing",
+    "saw"
+   ],
+   "answer": "see"
+  },
+  {
+   "q": "I have a toothache. Go to the ___.",
+   "options": [
+    "dentist",
+    "nurse",
+    "drugstore",
+    "hospital"
+   ],
+   "answer": "dentist"
+  },
+  {
+   "q": "Pain in the back is a ___.",
+   "options": [
+    "backache",
+    "earache",
+    "toothache",
+    "headache"
+   ],
+   "answer": "backache"
+  },
+  {
+   "q": "You ___ rest at home.",
+   "options": [
+    "should",
+    "shoulds",
+    "should to",
+    "are"
+   ],
+   "answer": "should"
+  },
+  {
+   "q": "He ___ a running nose.",
+   "options": [
+    "has",
+    "have",
+    "having",
+    "are"
+   ],
+   "answer": "has"
+  },
+  {
+   "q": "I see A-C-H-E in 'headache'. It's for ___.",
+   "options": [
+    "pain",
+    "food",
+    "game",
+    "time"
+   ],
+   "answer": "pain"
+  }
+ ]
+}
